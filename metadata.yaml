@@ -1,0 +1,29 @@
+_repo: Apu-Ollantay--13-A-Drama-of-the-Time-of-the-Incas_9068
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Markham, Clements R. (Clements Robert), Sir
+    aliases:
+    - Markham, Clements Robert, Sir
+    - Markham, Sir Clements R. (Clements Robert)
+    birthdate: 1830
+    deathdate: 1916
+    gutenberg_agent_id: '2962'
+    url: http://www.gutenberg.org/2009/agents/2962
+    wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
+description: ''
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9068'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Ollantay (Play)'
+- !lcsh 'Incas -- Drama'
+- GITenberg
+title: 'Apu Ollantay: A Drama of the Time of the Incas'
+url: http://www.gutenberg.org/ebooks/9068
