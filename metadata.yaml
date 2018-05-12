@@ -1,5 +1,8 @@
 _repo: Apu-Ollantay--13-A-Drama-of-the-Time-of-the-Incas_9068
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Markham, Clements R. (Clements Robert), Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2962
     wikipedia: http://en.wikipedia.org/wiki/Clements_Markham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9068#Apu-Ollantay--13-A-Drama-of-the-Time-of-the-Incas
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
